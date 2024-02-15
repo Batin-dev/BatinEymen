@@ -1,4 +1,5 @@
 - 👋 Hello, I'm @BatinEymen
-- 👀 I'm interested in Unreal Engine
-- 🌱 I'm currently trying to learn high-level C++
+- I'm interested in Unreal Engine
+- I am game developer from DarkfluX
 - 📫 You can reach me on Discord or Instagram
+- Discord : batin.dev.cs Instagram : batineymen_df_2022
