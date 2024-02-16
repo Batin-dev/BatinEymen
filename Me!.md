@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @BatinEymen
-- 
+- I know C# , C++ , some C and SQL
 - I'm interested in Unreal Engine
 - I am game developer from DarkfluX
 - 📫 You can reach me on Discord or Instagram
